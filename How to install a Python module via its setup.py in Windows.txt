@@ -1,0 +1,20 @@
+1.first, you should add you python installation path to environment
+
+2.setup.py is designed to be run from the command line. You'll need to open your command prompt (In Windows 7, hold down shift while right-clicking in the directory with the setup.py file. You should be able to select "Open Command Window Here").
+
+From the command line, you can type
+
+python setup.py --help
+...to get a list of commands. What you are looking to do is...
+
+python setup.py install
+
+
+For some package, we should intall 
+1.cython:install cython package first
+2.C++ Library
+such as numpy:
+
+ 
+
+
