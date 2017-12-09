@@ -20,7 +20,7 @@ such as numpy:
 Install tensorflow:
 1.first,download tensorflow whl file:https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow
 tensorflow?1.4.0?cp36?cp36m?win_amd64.whl
-2.install like below:
+2.install like below in cmd:
 python -m pip install foldername/tensorflow?1.4.0?cp36?cp36m?win_amd64.whl
 
 if using method suggested from offical, it will raise error like:ConnectionResetError: [WinError 10054]

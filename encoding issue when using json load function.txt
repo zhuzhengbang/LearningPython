@@ -1,0 +1,5 @@
+UnicodeDecodeError: 'gbk' codec can't decode byte 0xaa in position 553: illegal multibyte sequence
+
+Using below to solve:
+
+with open(filename, 'rb') ,including rb
