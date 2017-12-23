@@ -1,0 +1,7 @@
+##ignore this file##
+/target/
+__pycache__
+.__pycache__
+
+*.pyc
+
