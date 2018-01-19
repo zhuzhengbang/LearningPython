@@ -1,0 +1,6 @@
+1.first download PyInstaller
+2.pay attention to the name of PyInstaller,P and I are capital.
+3.Navigate to PyInstaller installation path through CMD,using below command to make exe file from source code£º
+...staller-3.3.1-py3.6.egg> 
+python -m PyInstaller -F  "E:\03 R&D\PY\Example\awesome-pyth
+on3-webapp\www\static\RenameFilesInOneFolder.py"
